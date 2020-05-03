@@ -1,0 +1,10 @@
+{
+  message: 'Listening on port 4000',
+  level: 'info',
+  timestamp: '2020-05-02T09:58:02.351Z'
+}
+{
+  message: 'Connect to mongodb failed: querySrv ETIMEOUT _mongodb._tcp.cluster0-2hmvh.mongodb.net',
+  level: 'error',
+  timestamp: '2020-05-03T07:19:07.330Z'
+}

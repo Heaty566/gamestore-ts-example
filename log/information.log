@@ -1,0 +1,2825 @@
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:12:17.675Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:12:17.999Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:12:32.001Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:12:32.295Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:12:39.333Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:12:39.696Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:15:20.952Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:15:21.319Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:15:30.024Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:15:30.471Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:15:59.852Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:16:00.209Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:16:18.570Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:16:18.950Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:16:28.523Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:16:28.869Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:19:04.384Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:19:04.986Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:19:22.340Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:19:22.627Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:22:03.230Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:22:03.603Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:24:21.428Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:24:21.969Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:25:40.323Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:25:40.684Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:26:07.985Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:26:08.278Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:30:04.734Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:30:05.135Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:30:54.980Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:30:55.271Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:32:56.467Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:32:56.848Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:33:21.016Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:33:21.320Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:33:54.949Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:33:55.337Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:34:16.029Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:34:16.332Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:35:00.592Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:35:00.946Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:35:10.100Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:35:10.477Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:46:08.041Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:46:08.363Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:46:16.940Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:46:17.226Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:46:37.411Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:46:37.718Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:47:12.679Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:47:13.010Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:47:30.208Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:47:30.529Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:47:56.898Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:47:57.230Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:49:26.380Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:49:26.695Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:50:30.647Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:50:30.974Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:50:35.358Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:50:35.696Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:50:57.289Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:50:57.592Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:56:34.980Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:56:35.281Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:56:42.289Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:56:42.577Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:56:52.984Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:56:53.302Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:57:48.674Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:57:49.052Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:58:18.778Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:58:19.082Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:58:42.199Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:58:42.473Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:58:50.005Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:58:50.342Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:59:28.754Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:59:29.069Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:59:38.408Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:59:38.703Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T16:59:57.035Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T16:59:57.348Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:00:15.991Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:00:16.262Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:00:25.356Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:00:25.690Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:00:39.063Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:00:39.371Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:00:46.057Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:00:46.424Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:01:16.544Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:01:16.916Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:01:31.712Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:01:32.026Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:02:27.361Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:02:27.699Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:03:39.343Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:03:39.680Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:07:44.739Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:07:45.096Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:17:00.349Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:17:00.681Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:18:36.388Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:18:36.755Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:19:12.589Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:19:12.923Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:19:42.583Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:19:42.913Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:19:54.993Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:19:55.272Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:25:51.792Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:25:52.104Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:27:06.800Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:27:07.108Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:30:05.994Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:30:06.361Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:30:11.778Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:30:12.091Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:30:29.316Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:30:29.651Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:31:01.523Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:31:01.821Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:31:16.015Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:31:16.387Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:31:22.792Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:31:23.112Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:32:56.786Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:32:57.163Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:33:12.894Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:33:13.405Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:34:20.255Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:34:20.644Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:35:36.263Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:35:36.657Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:35:47.147Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:35:47.495Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:37:00.795Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:37:01.114Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:37:27.951Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:37:28.265Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:56:01.054Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:56:01.403Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:56:23.859Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:56:24.156Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:59:20.594Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:59:21.191Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T17:59:33.350Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T17:59:33.669Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:04:39.691Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:04:40.012Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:05:33.159Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:05:33.464Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:05:54.322Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:05:54.694Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:06:07.046Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:06:07.336Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:09:06.300Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:09:06.668Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:09:51.439Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:09:51.739Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:10:06.106Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:10:06.494Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:10:20.305Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:10:20.584Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:14:28.624Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:14:28.933Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:16:15.713Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:16:16.043Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:16:24.309Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:16:24.578Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:16:58.812Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:16:59.104Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:18:02.514Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:18:02.849Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:18:12.904Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:18:13.188Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:18:25.050Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:18:25.350Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:19:04.281Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:19:04.604Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:21:14.256Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:21:14.624Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:24:19.175Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:24:19.663Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:27:35.462Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:27:35.960Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T18:28:16.333Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T18:28:16.841Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-02T19:16:12.076Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-02T19:16:12.381Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T05:57:26.565Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T05:57:26.987Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T05:57:59.567Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T05:57:59.848Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T05:59:11.151Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T05:59:11.484Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T05:59:20.582Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T05:59:20.848Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T05:59:54.386Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T05:59:54.670Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:01:59.660Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:01:59.978Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:03:31.282Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:03:31.583Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:03:40.897Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:03:41.211Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:04:11.380Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:04:11.722Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:07:43.931Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:07:44.262Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:07:53.858Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:07:54.167Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:08:28.032Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:08:28.320Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:08:36.121Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:08:36.449Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:09:23.636Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:09:23.940Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:10:05.416Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:10:05.716Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:10:34.958Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:10:42.747Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:10:43.026Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:10:59.889Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:11:00.176Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:11:53.021Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:11:53.372Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:12:34.781Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:12:35.108Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:13:08.778Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:13:09.102Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:13:41.517Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:13:41.796Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:14:13.262Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:14:13.564Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:14:43.386Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:14:43.707Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:15:10.265Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:15:10.614Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:18:11.249Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:18:11.545Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:18:29.213Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:18:29.497Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:18:37.343Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:18:37.611Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:18:50.462Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:18:50.756Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:19:29.014Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:19:29.345Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:19:51.707Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:19:52.080Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:21:03.441Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:21:03.780Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:21:10.778Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:21:11.070Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:21:43.901Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:21:44.206Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:22:15.555Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:22:15.964Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:22:32.940Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:22:33.241Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:23:08.030Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:23:08.315Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:24:04.973Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:24:05.421Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:26:24.784Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:26:25.130Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:27:40.148Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:27:40.492Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:32:09.547Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:32:09.882Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:35:00.785Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:35:01.131Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:36:11.205Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:36:11.532Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:36:43.834Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:36:44.423Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:37:50.526Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:37:50.932Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:38:48.778Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:38:50.029Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:39:08.822Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:39:09.207Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:40:10.612Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:40:10.980Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:41:00.029Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:41:00.374Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:42:21.233Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:42:22.382Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:42:58.376Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:42:58.742Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:43:49.846Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:43:50.273Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:45:17.759Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:45:18.073Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:46:03.107Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:46:03.386Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:46:13.485Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:46:13.807Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:46:59.304Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:47:00.081Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:47:16.048Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:47:16.337Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:49:22.893Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:49:23.251Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:50:45.704Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:50:46.152Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T06:52:00.229Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T06:52:00.653Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:14:51.371Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:14:52.114Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:15:07.257Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:15:07.584Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:17:52.278Z'
+}
+{
+  message: 'Connect to mongodb failed: querySrv ETIMEOUT _mongodb._tcp.cluster0-2hmvh.mongodb.net',
+  level: 'error',
+  timestamp: '2020-05-03T07:19:07.330Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:22:04.264Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:22:04.597Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:26:54.004Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:26:54.321Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:27:58.045Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:27:58.353Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:28:38.453Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:28:38.726Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:29:13.948Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:29:14.371Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:29:19.651Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:29:20.004Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:36:14.871Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:36:15.198Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:37:15.382Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:37:15.780Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:42:51.829Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:42:52.176Z'
+}
+{
+  message: 'A new user has been registered with Id: 5eae760911865911e0a3f68d',
+  level: 'info',
+  timestamp: '2020-05-03T07:43:05.391Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:44:15.024Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:44:15.360Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:44:58.803Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:44:59.147Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:45:20.504Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:45:20.818Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:46:08.973Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:46:09.244Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:46:22.589Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:46:23.023Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:46:36.168Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:46:36.539Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:46:51.727Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:46:52.045Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:48:31.625Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:48:31.988Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:49:11.476Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:49:11.772Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:51:13.789Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:51:14.148Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:51:26.807Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:51:27.082Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:51:43.837Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:51:44.184Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:51:54.003Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:51:54.305Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:53:07.183Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:53:07.510Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:56:08.542Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:56:08.914Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:56:27.196Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:56:27.517Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:57:40.362Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:57:40.788Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:58:04.113Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:58:05.453Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:58:23.868Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:58:24.137Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T07:58:43.859Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T07:58:44.187Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:00:10.744Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:00:11.093Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:00:19.921Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:00:20.206Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:00:38.615Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:00:38.931Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:01:05.873Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:01:06.205Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:01:20.137Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:01:20.487Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:01:39.848Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:01:40.130Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:02:14.112Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:02:14.436Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:02:31.804Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:02:32.142Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:02:54.828Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:02:55.158Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:03:33.861Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:03:34.225Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:04:13.068Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:04:13.751Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:04:35.491Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:04:35.857Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:04:47.525Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:04:47.870Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:05:07.067Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:05:07.491Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:05:25.595Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:05:25.926Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:05:46.082Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:05:46.398Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:06:02.371Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:06:02.695Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:06:25.852Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:06:26.220Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:06:52.706Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:06:59.368Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:06:59.656Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:07:44.022Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:07:44.297Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:08:27.443Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:08:27.849Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:08:45.451Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:08:45.745Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:08:57.599Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:08:57.910Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:09:13.038Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:09:13.312Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:09:29.596Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:09:29.973Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:09:57.658Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:09:57.946Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:10:13.823Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:10:14.170Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:06.759Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:07.073Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:24.450Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:24.753Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:31.407Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:31.722Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:44.544Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:44.849Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:55.493Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:11:55.822Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:12:16.513Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:12:16.885Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:12:49.922Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:12:50.213Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:14:32.557Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:14:32.909Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:14:47.218Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:14:47.538Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:14:53.340Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:14:53.859Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:15:18.694Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:15:18.982Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:15:36.375Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:15:36.788Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:15:55.665Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:15:55.974Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:16:04.839Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:16:05.155Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:16:39.650Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:16:40.351Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:17:15.450Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:17:16.067Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:18:13.872Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:18:14.192Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:19:24.245Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:19:24.564Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:19:34.077Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:19:34.451Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:19:57.388Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:19:57.708Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:20:05.194Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:20:05.559Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:20:24.590Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:20:24.897Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:21:01.445Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:21:01.765Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:23:01.711Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:23:02.009Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:24:10.129Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:24:10.422Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:25:20.885Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:25:21.233Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:25:51.917Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:25:52.214Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:26:19.273Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:26:19.631Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:27:40.577Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:27:40.923Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:27:49.555Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:27:49.916Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:28:01.534Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:28:01.856Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:28:18.601Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:28:18.893Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:28:44.331Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:28:44.643Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:28:54.639Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:28:55.013Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:29:27.294Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:29:27.798Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:29:42.009Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:29:42.345Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:30:12.986Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:30:13.340Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:30:42.526Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:30:42.842Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:33:07.877Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:33:08.192Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:33:40.022Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:33:40.347Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:35:03.717Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:35:04.011Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:35:24.559Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:35:24.936Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:36:52.195Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:36:52.509Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:37:19.101Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:37:19.478Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:38:45.511Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:38:45.878Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:39:40.841Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:39:41.234Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:40:07.715Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:40:08.041Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:41:00.751Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:41:01.043Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:41:32.057Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:41:32.387Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:42:38.306Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:42:38.718Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:43:17.756Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:43:18.075Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:47:45.134Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:47:45.612Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:49:11.949Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:49:12.372Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T08:50:47.261Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T08:50:47.609Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:02:47.765Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:02:48.060Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:04:03.379Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:04:03.670Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:04:24.164Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:04:24.482Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:04:31.495Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:04:31.789Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:04:40.094Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:04:40.363Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:05:01.786Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:05:02.204Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:05:20.087Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:05:20.425Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:10:15.628Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:10:15.928Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:11:03.452Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:11:03.718Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:13:32.121Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:13:32.431Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:13:45.752Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:13:46.154Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:23:35.195Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:23:39.475Z'
+}
+{
+  message: 'Listening on port 3000',
+  level: 'info',
+  timestamp: '2020-05-03T09:24:08.618Z'
+}
+{
+  message: 'Connect to gamesStore-test database successfully on host: cluster0-2hmvh.mongodb.net',
+  level: 'info',
+  timestamp: '2020-05-03T09:24:09.236Z'
+}
